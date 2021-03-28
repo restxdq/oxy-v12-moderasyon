@@ -1,0 +1,19 @@
+{
+  "registerCommander" : "XXXXXXXXXXXXXXXXXX",
+  "ownerCommander" : "XXXXXXXXXXXXXXXXXX",
+  "yetkiCommander" : "XXXXXXXXXXXXXXXXXX",
+  "botCommander" : "XXXXXXXXXXXXXXXXXX",
+  "jailCommander" : "XXXXXXXXXXXXXXXXXX",
+  "muteCommander" : "XXXXXXXXXXXXXXXXXX",
+  "vmuteCommander" : "XXXXXXXXXXXXXXXXXX",
+  "banCommander" : "XXXXXXXXXXXXXXXXXX",
+  "Seth" : "XXXXXXXXXXXXXXXXXX",
+
+  "jailRole" : "XXXXXXXXXXXXXXXXXX",
+  "mutedRole" : "XXXXXXXXXXXXXXXXXX",
+
+  "unregister1" : "XXXXXXXXXXXXXXXXXX",
+  "unregister2" : "XXXXXXXXXXXXXXXXXX",
+  "tagRole" : "XXXXXXXXXXXXXXXXXX",
+  "booster" : "XXXXXXXXXXXXXXXXXX" 
+} 
